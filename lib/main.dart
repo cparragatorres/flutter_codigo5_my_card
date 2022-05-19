@@ -33,7 +33,7 @@ class MandarinaApp extends StatelessWidget {
               "Christian Parraga",
               style: TextStyle(
                 color: Colors.white,
-                fontSize: 25.0,
+                fontSize: 20.0,
                 fontFamily: "TitanOne Regular",
               ),
             ),
